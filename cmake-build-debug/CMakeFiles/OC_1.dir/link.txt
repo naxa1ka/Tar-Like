@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/OC_1.dir/main.c.o CMakeFiles/OC_1.dir/tar.c.o -o OC_1 
